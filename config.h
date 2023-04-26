@@ -1,0 +1,1 @@
+#define TEXT_START_ADDR 0x400000
